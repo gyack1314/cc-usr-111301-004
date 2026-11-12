@@ -1,0 +1,22 @@
+{
+  "kind": "fits-table",
+  "assets": [
+    {
+      "path": "catalog.fits",
+      "bytes": 8640,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+  "source": {
+    "path": "catalog.fits",
+    "bytes": 8640,
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "hdu_index": 1,
+  "columns": [
+    "ID",
+    "SPECTRUM",
+    "QUALITY"
+  ],
+  "max_array_elements": 1000
+}
